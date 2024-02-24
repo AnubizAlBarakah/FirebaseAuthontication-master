@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025366613894",
+    "project_id": "integracodeinc",
+    "storage_bucket": "integracodeinc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025366613894:android:3396e627eb8ecad7a75607",
+        "android_client_info": {
+          "package_name": "com.example.fblab02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzCGm-48HJ8CsGoxCtf4EysZJIov3ZFbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
